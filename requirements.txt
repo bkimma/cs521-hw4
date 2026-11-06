@@ -1,0 +1,12 @@
+# Local environment for CS 521 HW4 (Problems 1, 2, 3a, Bonus 1).
+# Problem 3(b) (OLMo checkpoints) runs on Colab; see q3_llm/olmo_checkpoints_eval.ipynb.
+torch
+torchvision
+numpy
+scipy
+matplotlib
+pandas
+tqdm
+gymnasium
+jupyterlab
+ipykernel

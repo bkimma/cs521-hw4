@@ -1,0 +1,11 @@
+.venv/
+data/
+*/data
+*.pt
+cache/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+bonus1_uap/nb_text.md
+bonus1_uap/*.log
+q3_llm/logs/
